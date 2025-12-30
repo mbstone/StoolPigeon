@@ -36,6 +36,10 @@ Welcome to the workspace for the open-source project Stool Pigeon. The goal of t
 ## Future Improvements
 * convert to c++
 
+## Prototype Picture
+
+![PrototypeSystem](./Media/prototype.jpg)
+
 # Notes
 
 ## Sketch Uploads
