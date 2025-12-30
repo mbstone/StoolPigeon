@@ -1,4 +1,4 @@
-# outerwear
+# Outerwear
 ## options
 * hanger
 * toilet seat
