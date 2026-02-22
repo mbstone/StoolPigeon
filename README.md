@@ -24,6 +24,7 @@ Welcome to the workspace for the open-source project Stool Pigeon. The goal of t
 * circuit design for basic FSR usage
 * connected to wifi
 * connected to logging webserver on laptop
+* deep sleep woken by button press
 
 ## To Do Next
 * document hardware layout

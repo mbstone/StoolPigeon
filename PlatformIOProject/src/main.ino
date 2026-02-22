@@ -2,11 +2,13 @@
 #include <HTTPClient.h>
 #include <WifiCredentials.h>
 #include <WebServerDetails.h>
+#include "driver/rtc_io.h"
 
 #define FSR_PIN A0           // Analog pin connected to the divider
 #define R_FIXED 10000.0      // Fixed resistor value in ohms (10k)
 #define FSR_THRESHOLD 1200           // Below this = no pressure
 #define SLEEP_DELAY_US 10e6          // Sleep for 10 seconds (microseconds)
+#define WAKEUP_GPIO  GPIO_NUM_2
 
 unsigned long lastHighPressureTime = 0;
 const unsigned long PRESSURE_HOLD_MS = 5000;  // 5 seconds
@@ -64,10 +66,11 @@ void loop() {
     lastHighPressureTime = millis();  // Reset timer if pressure continues
   }
 
-  // If pressure has been low for 5 seconds, go back to sleep
+  // If pressure has been low for 5 seconds, go back to sleep for 10 seconds
   if (millis() - lastHighPressureTime > PRESSURE_HOLD_MS) {
     Serial.println("Pressure released. Sleeping in 3 seconds ..."); 
-    esp_sleep_enable_timer_wakeup(SLEEP_DELAY_US);
+    // esp_sleep_enable_timer_wakeup(SLEEP_DELAY_US);
+    esp_sleep_enable_ext0_wakeup(WAKEUP_GPIO, 1);
     esp_deep_sleep_start();
   }  
 
