@@ -500,3 +500,205 @@
 2026-02-21 21:06:17,051 - app - INFO - [2026-02-21T21:06:17.051701] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
 2026-02-21 21:06:18,286 - app - INFO - [2026-02-21T21:06:18.286141] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
 2026-02-21 21:06:19,534 - app - INFO - [2026-02-21T21:06:19.534138] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:23:29,256 - app - INFO - server starting up
+2026-02-22 15:24:07,674 - app - INFO - [2026-02-22T15:24:07.674184] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:24:23,852 - app - INFO - [2026-02-22T15:24:23.852804] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:24:25,055 - app - INFO - [2026-02-22T15:24:25.055929] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:24:26,305 - app - INFO - [2026-02-22T15:24:26.305309] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:24:27,553 - app - INFO - [2026-02-22T15:24:27.553570] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:24:48,427 - app - INFO - [2026-02-22T15:24:48.427010] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:24:49,664 - app - INFO - [2026-02-22T15:24:49.664497] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:24:50,914 - app - INFO - [2026-02-22T15:24:50.914579] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:26:06,256 - app - INFO - [2026-02-22T15:26:06.256175] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:26:07,479 - app - INFO - [2026-02-22T15:26:07.479399] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:26:08,716 - app - INFO - [2026-02-22T15:26:08.716350] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:26:09,955 - app - INFO - [2026-02-22T15:26:09.955479] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:26:14,037 - app - INFO - [2026-02-22T15:26:14.037177] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:26:15,446 - app - INFO - [2026-02-22T15:26:15.446741] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:26:16,493 - app - INFO - [2026-02-22T15:26:16.493047] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:26:47,730 - app - INFO - [2026-02-22T15:26:47.730423] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:26:49,046 - app - INFO - [2026-02-22T15:26:49.046337] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:26:50,189 - app - INFO - [2026-02-22T15:26:50.189268] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:27:00,729 - app - INFO - [2026-02-22T15:27:00.729624] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:27:01,948 - app - INFO - [2026-02-22T15:27:01.948793] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:27:03,289 - app - INFO - [2026-02-22T15:27:03.289680] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:27:12,508 - app - INFO - [2026-02-22T15:27:12.508622] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:27:13,720 - app - INFO - [2026-02-22T15:27:13.720582] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:27:14,835 - app - INFO - [2026-02-22T15:27:14.835034] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:27:26,443 - app - INFO - [2026-02-22T15:27:26.443132] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:27:27,606 - app - INFO - [2026-02-22T15:27:27.606414] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:27:28,743 - app - INFO - [2026-02-22T15:27:28.743777] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:27:54,686 - app - INFO - [2026-02-22T15:27:54.686248] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:27:55,744 - app - INFO - [2026-02-22T15:27:55.744327] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:27:56,978 - app - INFO - [2026-02-22T15:27:56.978473] FSR: 0, Voltage: 0.0000, Resistance: inf, Message: N/A
+2026-02-22 15:28:09,130 - app - INFO - [2026-02-22T15:28:09.130639] FSR: N/A, Voltage: N/A, Resistance: N/A, Message: N/A
+2026-02-22 15:28:10,344 - app - INFO - [2026-02-22T15:28:10.344355] FSR: 321222, Voltage: 2.9736, Resistance: 1097.5609, Message: N/A
+2026-02-22 15:28:11,690 - app - INFO - [2026-02-22T15:28:11.690858] FSR: 1233, Voltage: 0.0895, Resistance: 358918.9062, Message: N/A
+2026-02-22 15:28:12,844 - app - INFO - [2026-02-22T15:28:12.844082] FSR: 113, Voltage: 0.0185, Resistance: 1770434.8750, Message: N/A
+2026-02-22 15:28:14,086 - app - INFO - [2026-02-22T15:28:14.086653] FSR: 121, Voltage: 0.0201, Resistance: 1628000.0000, Message: N/A
+2026-02-22 15:28:24,044 - app - INFO - [2026-02-22T15:28:24.044015] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:28:25,346 - app - INFO - [2026-02-22T15:28:25.346063] FSR: 89, Voltage: 0.071722, Resistance: 450112.3, Message: Mesurement
+2026-02-22 15:28:26,526 - app - INFO - [2026-02-22T15:28:26.526826] FSR: 22, Voltage: 0.017729, Resistance: 1851364.0, Message: Mesurement
+2026-02-22 15:28:38,316 - app - INFO - [2026-02-22T15:28:38.316320] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:28:39,635 - app - INFO - [2026-02-22T15:28:39.635638] FSR: 39, Voltage: 0.031429, Resistance: 1040000.0, Message: Mesurement
+2026-02-22 15:28:40,862 - app - INFO - [2026-02-22T15:28:40.862717] FSR: 107, Voltage: 0.086227, Resistance: 372710.3, Message: Mesurement
+2026-02-22 15:28:42,195 - app - INFO - [2026-02-22T15:28:42.195167] FSR: 21, Voltage: 0.016923, Resistance: 1940000.0, Message: Mesurement
+2026-02-22 15:28:50,342 - app - INFO - [2026-02-22T15:28:50.342717] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:28:51,613 - app - INFO - [2026-02-22T15:28:51.613932] FSR: 31, Voltage: 0.024982, Resistance: 1310968.0, Message: Mesurement
+2026-02-22 15:28:52,842 - app - INFO - [2026-02-22T15:28:52.842735] FSR: 27, Voltage: 0.021758, Resistance: 1506667.0, Message: Mesurement
+2026-02-22 15:28:56,898 - app - INFO - [2026-02-22T15:28:56.898189] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:28:57,977 - app - INFO - [2026-02-22T15:28:57.977956] FSR: 30, Voltage: 0.024176, Resistance: 1355000.0, Message: Mesurement
+2026-02-22 15:28:59,217 - app - INFO - [2026-02-22T15:28:59.217913] FSR: 24, Voltage: 0.019341, Resistance: 1696250.0, Message: Mesurement
+2026-02-22 15:29:00,524 - app - INFO - [2026-02-22T15:29:00.524419] FSR: 97, Voltage: 0.078168, Resistance: 412165.0, Message: Mesurement
+2026-02-22 15:30:03,709 - app - INFO - [2026-02-22T15:30:03.709135] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:30:05,043 - app - INFO - [2026-02-22T15:30:05.043831] FSR: 3691, Voltage: 2.974432, Resistance: 1094.554, Message: Mesurement
+2026-02-22 15:30:06,241 - app - INFO - [2026-02-22T15:30:06.241621] FSR: 17, Voltage: 0.0137, Resistance: 2398824.0, Message: Mesurement
+2026-02-22 15:30:07,490 - app - INFO - [2026-02-22T15:30:07.490413] FSR: 118, Voltage: 0.095092, Resistance: 337033.9, Message: Mesurement
+2026-02-22 15:30:08,738 - app - INFO - [2026-02-22T15:30:08.738222] FSR: 24, Voltage: 0.019341, Resistance: 1696250.0, Message: Mesurement
+2026-02-22 15:30:20,066 - app - INFO - [2026-02-22T15:30:20.066713] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:30:21,256 - app - INFO - [2026-02-22T15:30:21.256333] FSR: 4095, Voltage: 3.3, Resistance: 0.000144, Message: Mesurement
+2026-02-22 15:30:22,506 - app - INFO - [2026-02-22T15:30:22.505966] FSR: 3796, Voltage: 3.059048, Resistance: 787.671, Message: Mesurement
+2026-02-22 15:30:23,758 - app - INFO - [2026-02-22T15:30:23.758624] FSR: 3968, Voltage: 3.197656, Resistance: 320.0605, Message: Mesurement
+2026-02-22 15:30:25,003 - app - INFO - [2026-02-22T15:30:25.003320] FSR: 3955, Voltage: 3.18718, Resistance: 353.9821, Message: Mesurement
+2026-02-22 15:30:26,252 - app - INFO - [2026-02-22T15:30:26.252825] FSR: 3472, Voltage: 2.797949, Resistance: 1794.355, Message: Mesurement
+2026-02-22 15:30:28,758 - app - INFO - [2026-02-22T15:30:28.758195] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:30:30,700 - app - INFO - [2026-02-22T15:30:30.700809] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:30:31,967 - app - INFO - [2026-02-22T15:30:31.967232] FSR: 3116, Voltage: 2.511062, Resistance: 3141.848, Message: Mesurement
+2026-02-22 15:30:33,192 - app - INFO - [2026-02-22T15:30:33.192848] FSR: 2503, Voltage: 2.01707, Resistance: 6360.368, Message: Mesurement
+2026-02-22 15:30:34,433 - app - INFO - [2026-02-22T15:30:34.433592] FSR: 1088, Voltage: 0.876777, Resistance: 27637.87, Message: Mesurement
+2026-02-22 15:30:44,529 - app - INFO - [2026-02-22T15:30:44.529483] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:30:45,838 - app - INFO - [2026-02-22T15:30:45.838438] FSR: 76, Voltage: 0.061245, Resistance: 528815.8, Message: Mesurement
+2026-02-22 15:30:47,018 - app - INFO - [2026-02-22T15:30:47.018915] FSR: 22, Voltage: 0.017729, Resistance: 1851364.0, Message: Mesurement
+2026-02-22 15:30:48,218 - app - INFO - [2026-02-22T15:30:48.218373] FSR: 92, Voltage: 0.074139, Resistance: 435108.7, Message: Mesurement
+2026-02-22 15:30:49,575 - app - INFO - [2026-02-22T15:30:49.575892] FSR: 95, Voltage: 0.076557, Resistance: 421052.6, Message: Mesurement
+2026-02-22 15:30:50,738 - app - INFO - [2026-02-22T15:30:50.738262] FSR: 21, Voltage: 0.016923, Resistance: 1940000.0, Message: Mesurement
+2026-02-22 15:30:51,985 - app - INFO - [2026-02-22T15:30:51.985149] FSR: 11, Voltage: 0.008864, Resistance: 3712727.0, Message: Mesurement
+2026-02-22 15:30:53,234 - app - INFO - [2026-02-22T15:30:53.234014] FSR: 95, Voltage: 0.076557, Resistance: 421052.6, Message: Mesurement
+2026-02-22 15:30:54,399 - app - INFO - [2026-02-22T15:30:54.399918] FSR: 26, Voltage: 0.020952, Resistance: 1565000.0, Message: Mesurement
+2026-02-22 15:30:55,516 - app - INFO - [2026-02-22T15:30:55.516574] FSR: 16, Voltage: 0.012894, Resistance: 2549375.0, Message: Mesurement
+2026-02-22 15:30:56,744 - app - INFO - [2026-02-22T15:30:56.743984] FSR: 17, Voltage: 0.0137, Resistance: 2398824.0, Message: Mesurement
+2026-02-22 15:30:57,975 - app - INFO - [2026-02-22T15:30:57.975080] FSR: 21, Voltage: 0.016923, Resistance: 1940000.0, Message: Mesurement
+2026-02-22 15:30:59,222 - app - INFO - [2026-02-22T15:30:59.222758] FSR: 23, Voltage: 0.018535, Resistance: 1770435.0, Message: Mesurement
+2026-02-22 15:31:00,473 - app - INFO - [2026-02-22T15:31:00.473297] FSR: 22, Voltage: 0.017729, Resistance: 1851364.0, Message: Mesurement
+2026-02-22 15:31:01,720 - app - INFO - [2026-02-22T15:31:01.720033] FSR: 20, Voltage: 0.016117, Resistance: 2037500.0, Message: Mesurement
+2026-02-22 15:31:02,969 - app - INFO - [2026-02-22T15:31:02.969583] FSR: 21, Voltage: 0.016923, Resistance: 1940000.0, Message: Mesurement
+2026-02-22 15:31:04,320 - app - INFO - [2026-02-22T15:31:04.320961] FSR: 24, Voltage: 0.019341, Resistance: 1696250.0, Message: Mesurement
+2026-02-22 15:31:05,551 - app - INFO - [2026-02-22T15:31:05.551259] FSR: 20, Voltage: 0.016117, Resistance: 2037500.0, Message: Mesurement
+2026-02-22 15:31:06,778 - app - INFO - [2026-02-22T15:31:06.778752] FSR: 61, Voltage: 0.049158, Resistance: 661311.5, Message: Mesurement
+2026-02-22 15:31:08,008 - app - INFO - [2026-02-22T15:31:08.008515] FSR: 18, Voltage: 0.014505, Resistance: 2265000.0, Message: Mesurement
+2026-02-22 15:31:09,339 - app - INFO - [2026-02-22T15:31:09.339636] FSR: 21, Voltage: 0.016923, Resistance: 1940000.0, Message: Mesurement
+2026-02-22 15:31:10,467 - app - INFO - [2026-02-22T15:31:10.467274] FSR: 22, Voltage: 0.017729, Resistance: 1851364.0, Message: Mesurement
+2026-02-22 15:31:11,808 - app - INFO - [2026-02-22T15:31:11.808088] FSR: 25, Voltage: 0.020147, Resistance: 1628000.0, Message: Mesurement
+2026-02-22 15:31:12,922 - app - INFO - [2026-02-22T15:31:12.922803] FSR: 17, Voltage: 0.0137, Resistance: 2398824.0, Message: Mesurement
+2026-02-22 15:33:23,178 - app - INFO - [2026-02-22T15:33:23.178815] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:33:24,360 - app - INFO - [2026-02-22T15:33:24.360485] FSR: 4095, Voltage: 3.3, Resistance: 0.000144, Message: Mesurement
+2026-02-22 15:33:25,619 - app - INFO - [2026-02-22T15:33:25.619941] FSR: 3831, Voltage: 3.087253, Resistance: 689.1147, Message: Mesurement
+2026-02-22 15:33:26,963 - app - INFO - [2026-02-22T15:33:26.963796] FSR: 3895, Voltage: 3.138828, Resistance: 513.4789, Message: Mesurement
+2026-02-22 15:33:29,528 - app - INFO - [2026-02-22T15:33:29.528045] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:33:30,838 - app - INFO - [2026-02-22T15:33:30.838896] FSR: 4095, Voltage: 3.3, Resistance: 0.000144, Message: Mesurement
+2026-02-22 15:33:32,186 - app - INFO - [2026-02-22T15:33:32.186690] FSR: 4095, Voltage: 3.3, Resistance: 0.000144, Message: Mesurement
+2026-02-22 15:33:35,429 - app - INFO - [2026-02-22T15:33:35.429360] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:33:36,898 - app - INFO - [2026-02-22T15:33:36.898962] FSR: 3710, Voltage: 2.989743, Resistance: 1037.736, Message: Mesurement
+2026-02-22 15:33:38,434 - app - INFO - [2026-02-22T15:33:38.434294] FSR: 23, Voltage: 0.018535, Resistance: 1770435.0, Message: Mesurement
+2026-02-22 15:33:39,715 - app - INFO - [2026-02-22T15:33:39.715021] FSR: 113, Voltage: 0.091062, Resistance: 352389.4, Message: Mesurement
+2026-02-22 15:33:40,978 - app - INFO - [2026-02-22T15:33:40.978243] FSR: 25, Voltage: 0.020147, Resistance: 1628000.0, Message: Mesurement
+2026-02-22 15:33:51,305 - app - INFO - [2026-02-22T15:33:51.305767] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:33:52,669 - app - INFO - [2026-02-22T15:33:52.669766] FSR: 92, Voltage: 0.074139, Resistance: 435108.7, Message: Mesurement
+2026-02-22 15:33:53,792 - app - INFO - [2026-02-22T15:33:53.792121] FSR: 22, Voltage: 0.017729, Resistance: 1851364.0, Message: Mesurement
+2026-02-22 15:33:55,123 - app - INFO - [2026-02-22T15:33:55.123186] FSR: 25, Voltage: 0.020147, Resistance: 1628000.0, Message: Mesurement
+2026-02-22 15:33:56,351 - app - INFO - [2026-02-22T15:33:56.351769] FSR: 21, Voltage: 0.016923, Resistance: 1940000.0, Message: Mesurement
+2026-02-22 15:33:57,496 - app - INFO - [2026-02-22T15:33:57.496210] FSR: 21, Voltage: 0.016923, Resistance: 1940000.0, Message: Mesurement
+2026-02-22 15:33:58,811 - app - INFO - [2026-02-22T15:33:58.811484] FSR: 43, Voltage: 0.034652, Resistance: 942325.6, Message: Mesurement
+2026-02-22 15:34:00,038 - app - INFO - [2026-02-22T15:34:00.038174] FSR: 16, Voltage: 0.012894, Resistance: 2549375.0, Message: Mesurement
+2026-02-22 15:34:01,164 - app - INFO - [2026-02-22T15:34:01.164088] FSR: 92, Voltage: 0.074139, Resistance: 435108.7, Message: Mesurement
+2026-02-22 15:34:02,290 - app - INFO - [2026-02-22T15:34:02.290230] FSR: 18, Voltage: 0.014505, Resistance: 2265000.0, Message: Mesurement
+2026-02-22 15:34:03,498 - app - INFO - [2026-02-22T15:34:03.498478] FSR: 23, Voltage: 0.018535, Resistance: 1770435.0, Message: Mesurement
+2026-02-22 15:34:04,851 - app - INFO - [2026-02-22T15:34:04.851078] FSR: 24, Voltage: 0.019341, Resistance: 1696250.0, Message: Mesurement
+2026-02-22 15:34:07,449 - app - INFO - [2026-02-22T15:34:07.449038] FSR: 21, Voltage: 0.016923, Resistance: 1940000.0, Message: Mesurement
+2026-02-22 15:34:08,845 - app - INFO - [2026-02-22T15:34:08.845445] FSR: 24, Voltage: 0.019341, Resistance: 1696250.0, Message: Mesurement
+2026-02-22 15:34:10,071 - app - INFO - [2026-02-22T15:34:10.071701] FSR: 24, Voltage: 0.019341, Resistance: 1696250.0, Message: Mesurement
+2026-02-22 15:34:11,251 - app - INFO - [2026-02-22T15:34:11.251287] FSR: 10, Voltage: 0.008059, Resistance: 4085000.0, Message: Mesurement
+2026-02-22 15:34:25,391 - app - INFO - [2026-02-22T15:34:25.391726] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:34:54,739 - app - INFO - [2026-02-22T15:34:54.739352] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:36:21,310 - app - INFO - [2026-02-22T15:36:21.310170] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:36:28,485 - app - INFO - [2026-02-22T15:36:28.484979] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:36:43,844 - app - INFO - [2026-02-22T15:36:43.844605] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:36:49,608 - app - INFO - [2026-02-22T15:36:49.608799] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:37:03,913 - app - INFO - [2026-02-22T15:37:03.913155] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 15:37:15,523 - app - INFO - [2026-02-22T15:37:15.523910] FSR: 2900, Voltage: 2.336996, Resistance: 4120.69, Message: Mesurement
+2026-02-22 15:37:16,689 - app - INFO - [2026-02-22T15:37:16.689494] FSR: 2728, Voltage: 2.198388, Resistance: 5010.997, Message: Mesurement
+2026-02-22 15:37:17,973 - app - INFO - [2026-02-22T15:37:17.973342] FSR: 2719, Voltage: 2.191136, Resistance: 5060.683, Message: Mesurement
+2026-02-22 15:37:19,305 - app - INFO - [2026-02-22T15:37:19.305864] FSR: 2621, Voltage: 2.112161, Resistance: 5623.808, Message: Mesurement
+2026-02-22 15:37:20,533 - app - INFO - [2026-02-22T15:37:20.533180] FSR: 2527, Voltage: 2.03641, Resistance: 6204.985, Message: Mesurement
+2026-02-22 15:37:21,693 - app - INFO - [2026-02-22T15:37:21.693010] FSR: 2468, Voltage: 1.988864, Resistance: 6592.383, Message: Mesurement
+2026-02-22 15:37:22,939 - app - INFO - [2026-02-22T15:37:22.939538] FSR: 2325, Voltage: 1.873626, Resistance: 7612.903, Message: Mesurement
+2026-02-22 15:37:24,219 - app - INFO - [2026-02-22T15:37:24.219706] FSR: 2253, Voltage: 1.815604, Resistance: 8175.765, Message: Mesurement
+2026-02-22 15:37:36,406 - app - INFO - [2026-02-22T15:37:36.406459] FSR: 2657, Voltage: 2.141172, Resistance: 5412.119, Message: Mesurement
+2026-02-22 15:37:37,735 - app - INFO - [2026-02-22T15:37:37.735722] FSR: 2675, Voltage: 2.155678, Resistance: 5308.412, Message: Mesurement
+2026-02-22 15:37:38,938 - app - INFO - [2026-02-22T15:37:38.938007] FSR: 2532, Voltage: 2.04044, Resistance: 6172.985, Message: Mesurement
+2026-02-22 15:39:18,614 - app - INFO - server starting up
+2026-02-22 15:39:31,391 - app - INFO - server starting up
+2026-02-22 15:39:56,038 - app - INFO - server starting up
+2026-02-22 15:40:01,116 - app - INFO - server starting up
+2026-02-22 15:40:05,159 - app - INFO - [2026-02-22T15:40:05.159147] FSR: 0, Voltage: 0, Resistance: 0, Message: Stool Pigeon starting up
+2026-02-22 15:40:06,372 - app - INFO - [2026-02-22T15:40:06.372138] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:07,651 - app - INFO - [2026-02-22T15:40:07.651345] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:08,979 - app - INFO - [2026-02-22T15:40:08.979561] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:10,207 - app - INFO - [2026-02-22T15:40:10.207855] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:11,441 - app - INFO - [2026-02-22T15:40:11.441650] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:12,613 - app - INFO - [2026-02-22T15:40:12.613828] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:13,862 - app - INFO - [2026-02-22T15:40:13.862684] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:15,021 - app - INFO - [2026-02-22T15:40:15.021479] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:16,109 - app - INFO - [2026-02-22T15:40:16.109181] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:17,489 - app - INFO - [2026-02-22T15:40:17.489646] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:18,708 - app - INFO - [2026-02-22T15:40:18.708890] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:19,861 - app - INFO - [2026-02-22T15:40:19.861897] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:21,111 - app - INFO - [2026-02-22T15:40:21.111738] FSR: 2429, Voltage: 1.957436, Resistance: 6858.79, Message: Mesurement
+2026-02-22 15:40:22,394 - app - INFO - [2026-02-22T15:40:22.394484] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:23,726 - app - INFO - [2026-02-22T15:40:23.726728] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 15:40:25,055 - app - INFO - [2026-02-22T15:40:25.055100] FSR: 0, Voltage: 0, Resistance: None, Message: Mesurement
+2026-02-22 16:15:42,922 - app - INFO - server starting up
+2026-02-22 16:16:17,688 - app - INFO - server starting up
+2026-02-22 16:16:41,287 - app - INFO - server starting up
+2026-02-22 16:16:46,913 - app - INFO - server starting up
+2026-02-22 16:16:51,050 - app - INFO - server starting up
+2026-02-22 16:16:55,881 - app - INFO - server starting up
+2026-02-22 16:17:01,802 - app - INFO - server starting up
+2026-02-22 16:17:06,650 - app - INFO - server starting up
+2026-02-22 16:17:08,472 - app - INFO - server starting up
+2026-02-22 16:17:19,938 - app - INFO - server starting up
+2026-02-22 16:17:23,702 - app - INFO - server starting up
+2026-02-22 16:17:25,514 - app - INFO - server starting up
+2026-02-22 16:17:30,816 - app - INFO - [2026-02-22T16:17:30.816393] FSR: 0, Voltage: 0.0, Resistance: 0.0, Message: Stool Pigeon starting up
+2026-02-22 16:17:32,164 - app - INFO - [2026-02-22T16:17:32.164736] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:33,339 - app - INFO - [2026-02-22T16:17:33.339936] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:34,618 - app - INFO - [2026-02-22T16:17:34.618755] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:35,857 - app - INFO - [2026-02-22T16:17:35.857959] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:37,086 - app - INFO - [2026-02-22T16:17:37.086473] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:38,336 - app - INFO - [2026-02-22T16:17:38.336957] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:39,640 - app - INFO - [2026-02-22T16:17:39.640434] FSR: 2299, Voltage: 1.852674, Resistance: 7812.092, Message: Mesurement
+2026-02-22 16:17:40,763 - app - INFO - [2026-02-22T16:17:40.763831] FSR: 2358, Voltage: 1.90022, Resistance: 7366.412, Message: Mesurement
+2026-02-22 16:17:41,889 - app - INFO - [2026-02-22T16:17:41.889755] FSR: 2355, Voltage: 1.897802, Resistance: 7388.535, Message: Mesurement
+2026-02-22 16:17:43,097 - app - INFO - [2026-02-22T16:17:43.097574] FSR: 2493, Voltage: 2.009011, Resistance: 6425.993, Message: Mesurement
+2026-02-22 16:17:44,451 - app - INFO - [2026-02-22T16:17:44.451453] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:45,679 - app - INFO - [2026-02-22T16:17:45.679475] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:46,906 - app - INFO - [2026-02-22T16:17:46.906899] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:48,092 - app - INFO - [2026-02-22T16:17:48.092074] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:49,342 - app - INFO - [2026-02-22T16:17:49.342567] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:50,406 - app - INFO - [2026-02-22T16:17:50.406836] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:51,593 - app - INFO - [2026-02-22T16:17:51.593005] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:52,838 - app - INFO - [2026-02-22T16:17:52.838270] FSR: 1129, Voltage: 0.909817, Resistance: 26271.04, Message: Mesurement
+2026-02-22 16:17:54,089 - app - INFO - [2026-02-22T16:17:54.089177] FSR: 917, Voltage: 0.738974, Resistance: 34656.49, Message: Mesurement
+2026-02-22 16:17:55,338 - app - INFO - [2026-02-22T16:17:55.338100] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:56,590 - app - INFO - [2026-02-22T16:17:56.590667] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:57,835 - app - INFO - [2026-02-22T16:17:57.835575] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:17:59,084 - app - INFO - [2026-02-22T16:17:59.084875] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:18:00,164 - app - INFO - [2026-02-22T16:18:00.164216] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:18:01,449 - app - INFO - [2026-02-22T16:18:01.449532] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:18:02,681 - app - INFO - [2026-02-22T16:18:02.681890] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:18:03,920 - app - INFO - [2026-02-22T16:18:03.920305] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:18:05,135 - app - INFO - [2026-02-22T16:18:05.135444] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:18:06,342 - app - INFO - [2026-02-22T16:18:06.342225] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:18:07,797 - app - INFO - [2026-02-22T16:18:07.796990] FSR: 0, Voltage: 0.0, Resistance: None, Message: Mesurement
+2026-02-22 16:18:19,437 - app - INFO - server starting up
+2026-02-22 16:18:21,302 - app - INFO - server starting up
