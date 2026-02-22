@@ -2,7 +2,8 @@
 #include <HTTPClient.h>
 #include <WifiCredentials.h>
 #include <WebServerDetails.h>
-#include "driver/rtc_io.h"
+#include <driver/rtc_io.h>
+#include <ArduinoJson.h>
 
 #define FSR_PIN A0           // Analog pin connected to the divider
 #define R_FIXED 10000.0      // Fixed resistor value in ohms (10k)
@@ -10,8 +11,18 @@
 #define SLEEP_DELAY_US 10e6          // Sleep for 10 seconds (microseconds)
 #define WAKEUP_GPIO  GPIO_NUM_2
 
+// set variable for tracking last time high pressure observed 
 unsigned long lastHighPressureTime = 0;
-const unsigned long PRESSURE_HOLD_MS = 5000;  // 5 seconds
+// set max allowed dead time without high pressure
+const unsigned long PRESSURE_HOLD_MS = 30000;  // 30 seconds
+// Build startup URL
+String url = String("http://") + SERVER_HOST + ":" + SERVER_PORT + "/log";
+// Initialize http client
+HTTPClient http;
+// Allocate the JSON document
+JsonDocument doc;
+// Initialize JsonBuffer
+String jsonBuffer;
 
 void setup() {
   Serial.begin(115200);
@@ -29,16 +40,22 @@ void setup() {
   Serial.print("ESP32 IP Address: ");
   Serial.println(WiFi.localIP());
 
-  // Build startup URL
-  String url = String("http://") + SERVER_HOST + ":" + SERVER_PORT + "/log";
-  String jsonPayload = String("{\"event\":\"startup\",\"ip\":\"") + WiFi.localIP().toString() + "\"}";
-  // Send HTTP GET request
-  HTTPClient http;
+
   http.begin(url);
-  Serial.println("Sending GET request to:");
+  Serial.println("Sending POST request to:");
   Serial.println(url);
 
-  int httpCode = http.GET();
+  // fill the json document
+  doc["fsr"] = 0;
+  doc["voltage"] = 0.0;
+  doc["resistance"] = 0.0;
+  doc["message"] = "Stool Pigeon starting up";
+
+  // 2. Serialize JSON to a string
+  serializeJson(doc, jsonBuffer); // serializeJson() produces minified JSON output
+  http.addHeader("Content-Type", "application/json");
+
+  int httpCode = http.POST(jsonBuffer);
   if (httpCode > 0) {
     Serial.printf("HTTP Response Code: %d\n", httpCode);
     String payload = http.getString();
@@ -74,17 +91,24 @@ void loop() {
     esp_deep_sleep_start();
   }  
 
-  String url = String("http://") + SERVER_HOST + ":" + SERVER_PORT +
-    "/log?fsr=" + String(analogValue, 4) +
-    "&voltage=" + String(voltage, 4) +
-    "&resistance=" + String(fsrResistance, 4);  
 
-  HTTPClient http;
+  // fill the json document
+  doc["fsr"] = analogValue;
+  doc["voltage"] = voltage;
+  doc["resistance"] = fsrResistance;
+  doc["message"] = "Mesurement";
+
+  // post request time
   http.begin(url);
-  Serial.println("Sending GET request to:");
+  Serial.println("Sending POST request to:");
   Serial.println(url);
 
-  int httpCode = http.GET();
+
+  // 2. Serialize JSON to a string
+  serializeJson(doc, jsonBuffer); // serializeJson() produces minified JSON output
+  http.addHeader("Content-Type", "application/json");
+
+  int httpCode = http.POST(jsonBuffer);
   if (httpCode > 0) {
     Serial.printf("HTTP Response Code: %d\n", httpCode);
     String payload = http.getString();
@@ -94,5 +118,5 @@ void loop() {
     Serial.printf("Request failed, error: %s\n", http.errorToString(httpCode).c_str());
   }
 
-  http.end();    
+  http.end(); 
 }
