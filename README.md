@@ -29,10 +29,8 @@ Welcome to the workspace for the open-source project Stool Pigeon. The goal of t
 ## To Do Next
 * document hardware layout
 * guide for wifi credential deps
-* switch to logging via POST 
 * add in image to POST request
 * wake from deep sleep with pressure
-* log to webserver on wake
 
 ## Future Improvements
 * convert to c++
