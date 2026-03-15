@@ -31,9 +31,9 @@ Welcome to the workspace for the open-source project Stool Pigeon. The goal of t
 * guide for wifi credential deps
 * add in image to POST request
 * wake from deep sleep with pressure
+* add TLS / https
 
 ## Future Improvements
-* convert to c++
 
 ## Prototype Picture
 
